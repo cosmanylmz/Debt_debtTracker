@@ -15,5 +15,5 @@ syncfusion_flutter_charts: 21.2.4,http: 0.13.6 , flutter_local_notifications: 16
 
 ## Pages
 
-<!-- ![image](https://user-images.githubusercontent.com/44557162/213013821-b1ac6c17-b156-4385-ac77-bafaa7d6d28b.png)
-![image](https://user-images.githubusercontent.com/44557162/213013911-f7fe8b8e-349b-41ad-9657-ce41af6209c4.png) -->
+[image](https://github.com/cosmanylmz/Debt_debtTracker/blob/main/assets/readme_images/debt_1.png)
+[image](https://github.com/cosmanylmz/Debt_debtTracker/blob/main/assets/readme_images/debt_1.png)
