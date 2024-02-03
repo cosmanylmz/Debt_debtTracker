@@ -22,5 +22,6 @@ syncfusion_flutter_charts: 21.2.4,http: 0.13.6 , flutter_local_notifications: 16
 ## Pages3
 ![debt_7](https://github.com/cosmanylmz/Debt_debtTracker/assets/74899293/91d33f58-9b61-45c7-b283-9480d260312a)
 ![debt_8](https://github.com/cosmanylmz/Debt_debtTracker/assets/74899293/609ee7c9-cb8c-4f05-bdf5-423b5f6524af)
+![debt_9](https://github.com/cosmanylmz/Debt_debtTracker/assets/74899293/b864f0f7-0c8f-4e34-a5d9-a2498fa2d957)
 ## Pages4
 ![debt_9](https://github.com/cosmanylmz/Debt_debtTracker/assets/74899293/b864f0f7-0c8f-4e34-a5d9-a2498fa2d957)
